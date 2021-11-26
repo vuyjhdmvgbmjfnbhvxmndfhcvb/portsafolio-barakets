@@ -1,0 +1,13 @@
+.links {
+float: Left;
+color: #fff;
+
+
+
+}
+.line{
+    height:6px;
+    background-color: aquamarine;
+    width:70px;
+    margin:8px auto;
+}
